@@ -1,0 +1,15 @@
+Full Name,Gender,Age,Profession,Dominant attribute, Preferred Gender, Max age preferration,Preferred Profession,Preferred Dominant attribute, Height(for men) Or Hair Color(for women)
+Ross Geller,Male,35,Paleontologist,Kind,Female,35,Scientist,Kind,1.81
+Rachel Greene,Female,28,Waitress,Sociable,Male,36,Paleontologist,Kind,Brown
+Phoebe Buffay,Female,30,Massage therapist,Naive,Male,85,Scientist,Smart,Blond
+Emily Waltham,Female,32,Teacher,Smart,Male,35,Paleontologist,Kind,Brown
+Joey Tribiani,Male,33,Actor,Loyal,Female,33,Waitress,Sociable,1.78
+Chandler Bing,Male,34,Statistical analysis and data reconfiguration,Funny,Female,34,Chef,Energetic,1.68
+Monica Geller,Female,28,Chef,Energetic,Male,60,Doctor,Funny,Black
+Carol Willick,Female,35,Secretary,Gentle,Female,40,Painter,Gentle,Blond
+Susan Bunch,Female,29,Painter,Gentle,Female,40,Secretary,Gentle,Brown
+Mike Hannigan,Male,30,Musician,Nice,Female,30,Massage therapist,Naive,1.67
+David the scientist,Male,45,Scientist,Smart,Female,35,Massage therapist,Naive,1.72
+Janice Litman-Goralnik,Female,31,Not Working,Energetic,Male,50,Teacher,Funny,Black
+Ran Danker,Male,40,Singer,Energetic,Both,40,Director,Shy,1.73
+Itay Vizer,Male,35,Director,Shy,Male,40,Singer,Energetic,1.68
